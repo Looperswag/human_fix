@@ -1,26 +1,7 @@
 <p align="center">
-  <h2 align="center">RealisHuman:  A Two-Stage Approach for Refining Malformed Human Parts in Generated Images</h2>
+  <h2 align="center">RealisHuman：一种用于细化生成图像中畸形人体部位的两阶段方法</h2>
   <p align="center">
-    <a href="https://github.com/Wangbenzhi"><strong>Benzhi Wang</strong></a>
-    ·
-    <a href="https://scholar.google.com/citations?user=80d4v4kAAAAJ&hl=en&oi=ao"><strong>Jingkai Zhou</strong></a>
-    ·
-    <a href=""><strong>Jingqi Bai</strong></a>
-    ·
-    <a href="https://scholar.google.com/citations?user=YU-yRMsAAAAJ&hl=en&oi=ao"><strong>Yang Yang</strong></a>
-    ·
-    <a href="https://scholar.google.com/citations?user=KWVlYaMAAAAJ&hl=en&oi=ao"><strong>Weihua Chen</strong></a>
-    ·
-    <a href=""><strong>Fan Wang</strong></a>
-    ·
-    <a href="https://scholar.google.com/citations?user=cuJ3QG8AAAAJ&hl=en&oi=ao"><strong>Zhen Lei</strong></a>
-    <br>
-    <br>
-        <a href="https://arxiv.org/abs/2409.03644"><img src='https://img.shields.io/badge/arXiv-RealisHuman-red' alt='Paper PDF'></a>
-        <a href=''><img src='https://img.shields.io/badge/Project_Page-RealisHuman-green' alt='Project Page'></a>
-    <br>
-    <b>CASIA &nbsp; | &nbsp;  Alibaba</b>
-  </p>
+
   
 <table align="center">
   <tr>
@@ -29,12 +10,6 @@
     </td>
   </tr>
 </table>
-
-
-## 📢 News 
-- [x] 🔥🔥🔥 RealisHuman paper and project page released.
-- [x] 🚀🚀🚀 Release training and inference code.
-- [x] 👏👏👏 Release RealisHuman checkpoints.
 
 
 ## 🏃‍♂️ Getting Started
